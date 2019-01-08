@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+# build artifacts
+yarn-error.log
+
+# os specific artifacts
+.DS_Store
