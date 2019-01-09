@@ -1,4 +1,7 @@
 # style-rsc
+
+[![](https://badgen.net/npm/v/@citation/style-rsc)](https://npmjs.org/package/@citation/style-rsc)
+
 NPM package for the Royal Society of Chemistry CSL citation style.
 
 This is a JSON serialized version of the [canonical XML based version][http://www.zotero.org/styles/royal-society-of-chemistry].

@@ -1,4 +1,7 @@
 # locale-es-es
+
+[![](https://badgen.net/npm/v/@citation/locale-es-es)](https://npmjs.org/package/@citation/locale-es-es)
+
 NPM package for the es-es CSL citation locale.
 
 This is a JSON serialized version of the canonical XML based version.

@@ -1,4 +1,7 @@
 # style-chicago
+
+[![](https://badgen.net/npm/v/@citation/style-chicago)](https://npmjs.org/package/@citation/style-chicago)
+
 NPM package for the Chicago Manual of Style 17th edition (author-date) CSL citation style.
 
 This is a JSON serialized version of the [canonical XML based version][http://www.zotero.org/styles/chicago-author-date].

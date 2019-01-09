@@ -1,4 +1,7 @@
 # locale-fr-fr
+
+[![](https://badgen.net/npm/v/@citation/locale-fr-fr)](https://npmjs.org/package/@citation/locale-fr-fr)
+
 NPM package for the fr-fr CSL citation locale.
 
 This is a JSON serialized version of the canonical XML based version.

@@ -1,4 +1,7 @@
 # style-nature
+
+[![](https://badgen.net/npm/v/@citation/style-nature)](https://npmjs.org/package/@citation/style-nature)
+
 NPM package for the Nature CSL citation style.
 
 This is a JSON serialized version of the [canonical XML based version][http://www.zotero.org/styles/nature].

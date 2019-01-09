@@ -1,4 +1,7 @@
 # locale-de-de
+
+[![](https://badgen.net/npm/v/@citation/locale-de-de)](https://npmjs.org/package/@citation/locale-de-de)
+
 NPM package for the de-de CSL citation locale.
 
 This is a JSON serialized version of the canonical XML based version.

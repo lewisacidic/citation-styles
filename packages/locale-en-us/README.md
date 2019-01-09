@@ -1,4 +1,7 @@
 # locale-en-us
+
+[![](https://badgen.net/npm/v/@citation/locale-en-us)](https://npmjs.org/package/@citation/locale-en-us)
+
 NPM package for the en-us CSL citation locale.
 
 This is a JSON serialized version of the canonical XML based version.

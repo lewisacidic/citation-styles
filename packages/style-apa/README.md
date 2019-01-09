@@ -1,4 +1,7 @@
 # style-apa
+
+[![](https://badgen.net/npm/v/@citation/style-apa)](https://npmjs.org/package/@citation/style-apa)
+
 NPM package for the American Psychological Association 6th edition CSL citation style.
 
 This is a JSON serialized version of the [canonical XML based version][http://www.zotero.org/styles/apa].

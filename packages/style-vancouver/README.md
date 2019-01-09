@@ -1,4 +1,7 @@
 # style-vancouver
+
+[![](https://badgen.net/npm/v/@citation/style-vancouver)](https://npmjs.org/package/@citation/style-vancouver)
+
 NPM package for the Vancouver CSL citation style.
 
 This is a JSON serialized version of the [canonical XML based version][http://www.zotero.org/styles/vancouver].

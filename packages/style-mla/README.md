@@ -1,4 +1,7 @@
 # style-mla
+
+[![](https://badgen.net/npm/v/@citation/style-mla)](https://npmjs.org/package/@citation/style-mla)
+
 NPM package for the Modern Language Association 7th edition CSL citation style.
 
 This is a JSON serialized version of the [canonical XML based version][http://www.zotero.org/styles/modern-language-association-7th-edition].
