@@ -1,0 +1,13 @@
+{
+  "name": "@citation/locale-de-de",
+  "version": "0.0.0",
+  "description": "de-de CSL locale",
+  "main": "index.js",
+  "keywords": ["citation-style-language", "csl-locale"],
+  "author": "Rich Lewis <contact@richlew.is>",
+  "license": "MIT",
+  "repository": "https://github.com/richlewis42/citation-styles/tree/master/packages/locale-de-de",
+  "publishConfig": {
+    "access": "public"
+  }
+}

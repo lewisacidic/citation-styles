@@ -1,0 +1,13 @@
+{
+  "name": "@citation/locale-en-gb",
+  "version": "0.0.0",
+  "description": "en-gb CSL locale",
+  "main": "index.js",
+  "keywords": ["citation-style-language", "csl-locale"],
+  "author": "Rich Lewis <contact@richlew.is>",
+  "license": "MIT",
+  "repository": "https://github.com/richlewis42/citation-styles/tree/master/packages/locale-en-gb",
+  "publishConfig": {
+    "access": "public"
+  }
+}

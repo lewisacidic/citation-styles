@@ -1,0 +1,13 @@
+{
+  "name": "@citation/locale-es-es",
+  "version": "0.0.0",
+  "description": "es-es CSL locale",
+  "main": "index.js",
+  "keywords": ["citation-style-language", "csl-locale"],
+  "author": "Rich Lewis <contact@richlew.is>",
+  "license": "MIT",
+  "repository": "https://github.com/richlewis42/citation-styles/tree/master/packages/locale-es-es",
+  "publishConfig": {
+    "access": "public"
+  }
+}

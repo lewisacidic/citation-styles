@@ -1,0 +1,13 @@
+{
+  "name": "@citation/style-nature",
+  "version": "0.0.0",
+  "description": "Nature CSL style",
+  "main": "index.js",
+  "keywords": ["citation-style-language", "csl-style"],
+  "author": "Rich Lewis <contact@richlew.is>",
+  "license": "MIT",
+  "repository": "https://github.com/richlewis42/citation-styles/tree/master/packages/style-nature",
+  "publishConfig": {
+    "access": "public"
+  }
+}
