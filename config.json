@@ -1,0 +1,30 @@
+{
+  "packages": [
+    { "name": "vancouver", "filepath": "styles/vancouver.csl" },
+    { "name": "apa", "filepath": "styles/apa.csl" },
+    { "name": "chicago", "filepath": "styles/chicago-author-date.csl" },
+    {
+      "name": "mla",
+      "filepath": "styles/modern-language-association-7th-edition.csl"
+    },
+    {
+      "name": "rsc",
+      "filepath": "styles/royal-society-of-chemistry.csl"
+    },
+    {
+      "name": "nature",
+      "filepath": "styles/nature.csl"
+    },
+    {
+      "name": "en-us",
+      "filepath": "locales/locales-en-US.xml"
+    },
+    {
+      "name": "en-gb",
+      "filepath": "locales/locales-en-GB.xml"
+    },
+    { "name": "fr-fr", "filepath": "locales/locales-fr-FR.xml" },
+    { "name": "es-es", "filepath": "locales/locales-es-ES.xml" },
+    { "name": "de-de", "filepath": "locales/locales-de-DE.xml" }
+  ]
+}

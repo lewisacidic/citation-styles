@@ -1,0 +1,44 @@
+# {{ packageName }}
+NPM package for the {{ title }} CSL citation {{ type }}.
+
+This is a JSON serialized version of the {{#if link}}[{{/if}}canonical XML based version{{#if link}}][{{ link }}]{{/if}}.
+
+Data is provided by the [Citation Style Language project](https://citationstyles.org).
+This project is currently an independent venture.
+
+## Usage
+Install the package using `npm`:
+
+```shell
+npm install --save {{ scopedPackageName }}
+```
+
+or `yarn`:
+
+```shell
+yarn add {{ scopedPackageName }}
+```
+
+## {{ title }} {{ type }}
+Last updated {{ updated }}.
+
+{{#if authors}}### Authors: 
+{{#each authors}}- {{ this }}
+{{/each}}
+
+{{/if}}
+{{#if contributors}}### Contributors: 
+{{#each contributors}}- {{ this }}
+{{/each}}
+
+{{/if}}
+{{#if translators}}### Translators: 
+{{#each translators}}- {{ this }}
+{{/each}}
+
+{{/if}}
+## License
+The code in this library is licensed under the [MIT license][mit], by the actual {{ type }} is licensed under the [CC-BY-SA 3.0 license][cc-by-sa-3.0].
+
+[mit]: https://opensource.org/licenses/MIT
+[cc-by-sa-3.0]: https://creativecommons.org/licenses/by-sa/3.0/
