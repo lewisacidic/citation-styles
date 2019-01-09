@@ -8,7 +8,7 @@ const ROOT = path.resolve(__dirname, "..");
 const PACKAGES_DIR = path.resolve(ROOT, "packages");
 const TEMPLATE_DIR = path.resolve(ROOT, "templates");
 
-function Builder({ filepath, name, scope = "citation" }) {
+function Builder({ filepath, name, scope = null }) {
   this.scope = scope;
   this.filePath = filepath;
   this.name = name;

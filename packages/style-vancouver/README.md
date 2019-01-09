@@ -1,6 +1,6 @@
 # style-vancouver
 
-[![](https://flat.badgen.net/npm/v/@citation/style-vancouver)](https://npmjs.org/package/@citation/style-vancouver)
+[![](https://flat.badgen.net/npm/v/style-vancouver)](https://npmjs.org/package/style-vancouver)
 [![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
 [![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
@@ -15,13 +15,13 @@ This project is currently an independent venture.
 Install the package using `npm`:
 
 ```shell
-npm install --save @citation/style-vancouver
+npm install --save style-vancouver
 ```
 
 or `yarn`:
 
 ```shell
-yarn add @citation/style-vancouver
+yarn add style-vancouver
 ```
 
 ## Vancouver style

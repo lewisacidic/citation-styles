@@ -1,6 +1,6 @@
 # locale-de-de
 
-[![](https://flat.badgen.net/npm/v/@citation/locale-de-de)](https://npmjs.org/package/@citation/locale-de-de)
+[![](https://flat.badgen.net/npm/v/locale-de-de)](https://npmjs.org/package/locale-de-de)
 [![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
 [![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
@@ -15,13 +15,13 @@ This project is currently an independent venture.
 Install the package using `npm`:
 
 ```shell
-npm install --save @citation/locale-de-de
+npm install --save locale-de-de
 ```
 
 or `yarn`:
 
 ```shell
-yarn add @citation/locale-de-de
+yarn add locale-de-de
 ```
 
 ## de-de locale

@@ -1,6 +1,6 @@
 # style-rsc
 
-[![](https://flat.badgen.net/npm/v/@citation/style-rsc)](https://npmjs.org/package/@citation/style-rsc)
+[![](https://flat.badgen.net/npm/v/style-rsc)](https://npmjs.org/package/style-rsc)
 [![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
 [![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
@@ -15,13 +15,13 @@ This project is currently an independent venture.
 Install the package using `npm`:
 
 ```shell
-npm install --save @citation/style-rsc
+npm install --save style-rsc
 ```
 
 or `yarn`:
 
 ```shell
-yarn add @citation/style-rsc
+yarn add style-rsc
 ```
 
 ## Royal Society of Chemistry style

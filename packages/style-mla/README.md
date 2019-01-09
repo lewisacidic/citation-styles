@@ -1,6 +1,6 @@
 # style-mla
 
-[![](https://flat.badgen.net/npm/v/@citation/style-mla)](https://npmjs.org/package/@citation/style-mla)
+[![](https://flat.badgen.net/npm/v/style-mla)](https://npmjs.org/package/style-mla)
 [![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
 [![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
@@ -15,13 +15,13 @@ This project is currently an independent venture.
 Install the package using `npm`:
 
 ```shell
-npm install --save @citation/style-mla
+npm install --save style-mla
 ```
 
 or `yarn`:
 
 ```shell
-yarn add @citation/style-mla
+yarn add style-mla
 ```
 
 ## Modern Language Association 7th edition style

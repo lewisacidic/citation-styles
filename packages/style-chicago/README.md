@@ -1,6 +1,6 @@
 # style-chicago
 
-[![](https://flat.badgen.net/npm/v/@citation/style-chicago)](https://npmjs.org/package/@citation/style-chicago)
+[![](https://flat.badgen.net/npm/v/style-chicago)](https://npmjs.org/package/style-chicago)
 [![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
 [![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
@@ -15,13 +15,13 @@ This project is currently an independent venture.
 Install the package using `npm`:
 
 ```shell
-npm install --save @citation/style-chicago
+npm install --save style-chicago
 ```
 
 or `yarn`:
 
 ```shell
-yarn add @citation/style-chicago
+yarn add style-chicago
 ```
 
 ## Chicago Manual of Style 17th edition (author-date) style

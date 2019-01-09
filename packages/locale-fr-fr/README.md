@@ -1,6 +1,6 @@
 # locale-fr-fr
 
-[![](https://flat.badgen.net/npm/v/@citation/locale-fr-fr)](https://npmjs.org/package/@citation/locale-fr-fr)
+[![](https://flat.badgen.net/npm/v/locale-fr-fr)](https://npmjs.org/package/locale-fr-fr)
 [![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
 [![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
@@ -15,13 +15,13 @@ This project is currently an independent venture.
 Install the package using `npm`:
 
 ```shell
-npm install --save @citation/locale-fr-fr
+npm install --save locale-fr-fr
 ```
 
 or `yarn`:
 
 ```shell
-yarn add @citation/locale-fr-fr
+yarn add locale-fr-fr
 ```
 
 ## fr-fr locale

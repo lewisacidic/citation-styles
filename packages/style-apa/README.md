@@ -1,6 +1,6 @@
 # style-apa
 
-[![](https://flat.badgen.net/npm/v/@citation/style-apa)](https://npmjs.org/package/@citation/style-apa)
+[![](https://flat.badgen.net/npm/v/style-apa)](https://npmjs.org/package/style-apa)
 [![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
 [![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
@@ -15,13 +15,13 @@ This project is currently an independent venture.
 Install the package using `npm`:
 
 ```shell
-npm install --save @citation/style-apa
+npm install --save style-apa
 ```
 
 or `yarn`:
 
 ```shell
-yarn add @citation/style-apa
+yarn add style-apa
 ```
 
 ## American Psychological Association 6th edition style

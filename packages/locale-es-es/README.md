@@ -1,6 +1,6 @@
 # locale-es-es
 
-[![](https://flat.badgen.net/npm/v/@citation/locale-es-es)](https://npmjs.org/package/@citation/locale-es-es)
+[![](https://flat.badgen.net/npm/v/locale-es-es)](https://npmjs.org/package/locale-es-es)
 [![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
 [![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
@@ -15,13 +15,13 @@ This project is currently an independent venture.
 Install the package using `npm`:
 
 ```shell
-npm install --save @citation/locale-es-es
+npm install --save locale-es-es
 ```
 
 or `yarn`:
 
 ```shell
-yarn add @citation/locale-es-es
+yarn add locale-es-es
 ```
 
 ## es-es locale
