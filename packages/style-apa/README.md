@@ -6,7 +6,7 @@
 
 NPM package for the American Psychological Association 6th edition CSL citation style.
 
-This is a JSON serialized version of the [canonical XML based version][http://www.zotero.org/styles/apa].
+This is a JSON serialized version of the [canonical XML based version](http://www.zotero.org/styles/apa).
 
 Data is provided by the [Citation Style Language project](https://citationstyles.org).
 This project is currently an independent venture.

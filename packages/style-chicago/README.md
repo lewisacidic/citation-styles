@@ -6,7 +6,7 @@
 
 NPM package for the Chicago Manual of Style 17th edition (author-date) CSL citation style.
 
-This is a JSON serialized version of the [canonical XML based version][http://www.zotero.org/styles/chicago-author-date].
+This is a JSON serialized version of the [canonical XML based version](http://www.zotero.org/styles/chicago-author-date).
 
 Data is provided by the [Citation Style Language project](https://citationstyles.org).
 This project is currently an independent venture.

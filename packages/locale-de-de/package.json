@@ -1,5 +1,5 @@
 {
-  "name": "@citation/locale-de-de",
+  "name": "locale-de-de",
   "version": "0.0.0",
   "description": "de-de CSL locale",
   "main": "index.js",

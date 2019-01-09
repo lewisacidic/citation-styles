@@ -1,5 +1,5 @@
 {
-  "name": "@citation/style-vancouver",
+  "name": "style-vancouver",
   "version": "0.0.0",
   "description": "Vancouver CSL style",
   "main": "index.js",

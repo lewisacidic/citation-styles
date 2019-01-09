@@ -1,5 +1,5 @@
 {
-  "name": "@citation/style-mla",
+  "name": "style-mla",
   "version": "0.0.0",
   "description": "Modern Language Association 7th edition CSL style",
   "main": "index.js",

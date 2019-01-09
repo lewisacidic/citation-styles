@@ -1,5 +1,5 @@
 {
-  "name": "@citation/style-nature",
+  "name": "style-nature",
   "version": "0.0.0",
   "description": "Nature CSL style",
   "main": "index.js",

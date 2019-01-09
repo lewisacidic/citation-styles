@@ -6,7 +6,7 @@
 
 NPM package for the Royal Society of Chemistry CSL citation style.
 
-This is a JSON serialized version of the [canonical XML based version][http://www.zotero.org/styles/royal-society-of-chemistry].
+This is a JSON serialized version of the [canonical XML based version](http://www.zotero.org/styles/royal-society-of-chemistry).
 
 Data is provided by the [Citation Style Language project](https://citationstyles.org).
 This project is currently an independent venture.

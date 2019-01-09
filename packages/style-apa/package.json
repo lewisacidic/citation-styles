@@ -1,5 +1,5 @@
 {
-  "name": "@citation/style-apa",
+  "name": "style-apa",
   "version": "0.0.0",
   "description": "American Psychological Association 6th edition CSL style",
   "main": "index.js",

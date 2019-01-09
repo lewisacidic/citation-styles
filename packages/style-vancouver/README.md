@@ -6,7 +6,7 @@
 
 NPM package for the Vancouver CSL citation style.
 
-This is a JSON serialized version of the [canonical XML based version][http://www.zotero.org/styles/vancouver].
+This is a JSON serialized version of the [canonical XML based version](http://www.zotero.org/styles/vancouver).
 
 Data is provided by the [Citation Style Language project](https://citationstyles.org).
 This project is currently an independent venture.
