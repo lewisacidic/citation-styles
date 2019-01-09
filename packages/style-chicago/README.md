@@ -1,6 +1,8 @@
 # style-chicago
 
-[![](https://badgen.net/npm/v/@citation/style-chicago)](https://npmjs.org/package/@citation/style-chicago)
+[![](https://flat.badgen.net/npm/v/@citation/style-chicago)](https://npmjs.org/package/@citation/style-chicago)
+[![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
+[![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
 NPM package for the Chicago Manual of Style 17th edition (author-date) CSL citation style.
 

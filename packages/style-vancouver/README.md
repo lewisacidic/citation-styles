@@ -1,6 +1,8 @@
 # style-vancouver
 
-[![](https://badgen.net/npm/v/@citation/style-vancouver)](https://npmjs.org/package/@citation/style-vancouver)
+[![](https://flat.badgen.net/npm/v/@citation/style-vancouver)](https://npmjs.org/package/@citation/style-vancouver)
+[![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
+[![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
 NPM package for the Vancouver CSL citation style.
 

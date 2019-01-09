@@ -1,6 +1,8 @@
 # locale-de-de
 
-[![](https://badgen.net/npm/v/@citation/locale-de-de)](https://npmjs.org/package/@citation/locale-de-de)
+[![](https://flat.badgen.net/npm/v/@citation/locale-de-de)](https://npmjs.org/package/@citation/locale-de-de)
+[![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
+[![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
 NPM package for the de-de CSL citation locale.
 

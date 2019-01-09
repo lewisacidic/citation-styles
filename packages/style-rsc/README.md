@@ -1,6 +1,8 @@
 # style-rsc
 
-[![](https://badgen.net/npm/v/@citation/style-rsc)](https://npmjs.org/package/@citation/style-rsc)
+[![](https://flat.badgen.net/npm/v/@citation/style-rsc)](https://npmjs.org/package/@citation/style-rsc)
+[![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
+[![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
 NPM package for the Royal Society of Chemistry CSL citation style.
 

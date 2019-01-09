@@ -1,6 +1,8 @@
 # style-apa
 
-[![](https://badgen.net/npm/v/@citation/style-apa)](https://npmjs.org/package/@citation/style-apa)
+[![](https://flat.badgen.net/npm/v/@citation/style-apa)](https://npmjs.org/package/@citation/style-apa)
+[![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
+[![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
 NPM package for the American Psychological Association 6th edition CSL citation style.
 

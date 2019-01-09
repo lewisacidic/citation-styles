@@ -1,6 +1,8 @@
 # locale-fr-fr
 
-[![](https://badgen.net/npm/v/@citation/locale-fr-fr)](https://npmjs.org/package/@citation/locale-fr-fr)
+[![](https://flat.badgen.net/npm/v/@citation/locale-fr-fr)](https://npmjs.org/package/@citation/locale-fr-fr)
+[![](https://flat.badgen.net/badge/license/MIT/blue)][mit]
+[![](https://flat.badgen.net/badge/license/CC-BY-SA/blue)][cc-by-sa-3.0]
 
 NPM package for the fr-fr CSL citation locale.
 
