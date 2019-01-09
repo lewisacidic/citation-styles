@@ -8,5 +8,11 @@
     "citeproc": "^2.1.210",
     "handlebars": "^4.0.12",
     "uglify-js": "^3.4.9"
+  },
+  "scripts": {
+    "build": "node scripts",
+    "pull-submodules": "git submodule foreach git pull origin master",
+    "update": "yarn pull-submodules && yarn build",
+    "publish": "lerna publish"
   }
 }
