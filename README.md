@@ -8,16 +8,26 @@ This project is as yet independent of this organisation.
 Install the packages using `npm`:
 
 ```shell
-npm install --save @citation-style-language/{style-vancouver,locale-en-US}
+npm install --save style-vancouver locale-en-us
 ```
 
 Or `yarn`:
 
 ```shell
-yarn add @citation-style-language/{style-vancouver,locale-en-US}
+yarn add style-vancouver locale-en-us
 ```
 
-These styles may then be used by software libraries such as [citeproc-js][citeproc-js], [Citation.js][citation-js] or [simple-cite][simple-cite].
+These styles may then be imported directly for use with software libraries such as [citeproc-js][citeproc-js], [Citation.js][citation-js] or [simple-cite][simple-cite], i.e.
+
+```js
+import Processor from 'simple-cite'
+import style from 'style-vancouver'
+import locale from 'locale-en-us'
+
+import items from './refs'
+
+const processor = new Processor({ items, style, locale })
+```
 
 [citeproc-js]: https://github.com/Juris-M/citeproc-js
 [citation-js]: https://github.com/citation-js/citation-js
