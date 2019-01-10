@@ -49,12 +49,7 @@ Builder.prototype.getUpdated = function() {
 };
 
 Builder.prototype.buildIndexJs = function() {
-  let code = {};
-  Object.assign(code, this.data);
-  code.children = this.data.children.filter(
-    c => c.name !== "locale" && c.name !== "info"
-  );
-  code = "module.exports=" + JSON.stringify(code);
+  code = "module.exports=" + JSON.stringify(this.data);
   return uglify.minify(code).code;
 };
 Builder.prototype.readme = Handlebars.compile(
