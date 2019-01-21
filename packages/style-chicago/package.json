@@ -1,9 +1,12 @@
 {
   "name": "style-chicago",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Chicago Manual of Style 17th edition (author-date) CSL style",
   "main": "index.js",
-  "keywords": ["citation-style-language", "csl-style"],
+  "keywords": [
+    "citation-style-language",
+    "csl-style"
+  ],
   "author": "Rich Lewis <contact@richlew.is>",
   "license": "MIT",
   "repository": "https://github.com/richlewis42/citation-styles/tree/master/packages/style-chicago",

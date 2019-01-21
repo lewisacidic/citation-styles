@@ -1,9 +1,12 @@
 {
   "name": "locale-fr-fr",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "fr-fr CSL locale",
   "main": "index.js",
-  "keywords": ["citation-style-language", "csl-locale"],
+  "keywords": [
+    "citation-style-language",
+    "csl-locale"
+  ],
   "author": "Rich Lewis <contact@richlew.is>",
   "license": "MIT",
   "repository": "https://github.com/richlewis42/citation-styles/tree/master/packages/locale-fr-fr",
