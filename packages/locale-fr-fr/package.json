@@ -1,6 +1,6 @@
 {
   "name": "locale-fr-fr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fr-fr CSL locale",
   "main": "index.js",
   "keywords": [

@@ -1,6 +1,6 @@
 {
   "name": "style-chicago",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Chicago Manual of Style 17th edition (author-date) CSL style",
   "main": "index.js",
   "keywords": [

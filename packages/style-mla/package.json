@@ -1,6 +1,6 @@
 {
   "name": "style-mla",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Modern Language Association 7th edition CSL style",
   "main": "index.js",
   "keywords": [

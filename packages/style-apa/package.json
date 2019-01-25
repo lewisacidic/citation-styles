@@ -1,6 +1,6 @@
 {
   "name": "style-apa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "American Psychological Association 6th edition CSL style",
   "main": "index.js",
   "keywords": [
