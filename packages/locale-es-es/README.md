@@ -24,6 +24,12 @@ or `yarn`:
 yarn add locale-es-es
 ```
 
+Then import it as any other package:
+
+```js
+import locale from 'locale-es-es'
+```
+
 ## es-es locale
 Last updated 2012-7-5.
 

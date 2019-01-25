@@ -24,6 +24,12 @@ or `yarn`:
 yarn add style-vancouver
 ```
 
+Then import it as any other package:
+
+```js
+import style from 'style-vancouver'
+```
+
 ## Vancouver style
 Last updated 2014-9-6.
 

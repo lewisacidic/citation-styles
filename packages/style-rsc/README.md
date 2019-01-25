@@ -24,6 +24,12 @@ or `yarn`:
 yarn add style-rsc
 ```
 
+Then import it as any other package:
+
+```js
+import style from 'style-rsc'
+```
+
 ## Royal Society of Chemistry style
 Last updated 2018-12-26.
 

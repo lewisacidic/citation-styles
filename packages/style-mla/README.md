@@ -24,6 +24,12 @@ or `yarn`:
 yarn add style-mla
 ```
 
+Then import it as any other package:
+
+```js
+import style from 'style-mla'
+```
+
 ## Modern Language Association 7th edition style
 Last updated 2017-4-27.
 

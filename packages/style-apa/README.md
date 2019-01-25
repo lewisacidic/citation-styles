@@ -24,6 +24,12 @@ or `yarn`:
 yarn add style-apa
 ```
 
+Then import it as any other package:
+
+```js
+import style from 'style-apa'
+```
+
 ## American Psychological Association 6th edition style
 Last updated 2016-9-28.
 

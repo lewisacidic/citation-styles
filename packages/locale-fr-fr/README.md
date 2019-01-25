@@ -24,6 +24,12 @@ or `yarn`:
 yarn add locale-fr-fr
 ```
 
+Then import it as any other package:
+
+```js
+import locale from 'locale-fr-fr'
+```
+
 ## fr-fr locale
 Last updated 2012-7-5.
 

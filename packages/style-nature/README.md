@@ -24,6 +24,12 @@ or `yarn`:
 yarn add style-nature
 ```
 
+Then import it as any other package:
+
+```js
+import style from 'style-nature'
+```
+
 ## Nature style
 Last updated 2018-10-24.
 

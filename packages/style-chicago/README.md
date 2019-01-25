@@ -24,6 +24,12 @@ or `yarn`:
 yarn add style-chicago
 ```
 
+Then import it as any other package:
+
+```js
+import style from 'style-chicago'
+```
+
 ## Chicago Manual of Style 17th edition (author-date) style
 Last updated 2018-1-24.
 

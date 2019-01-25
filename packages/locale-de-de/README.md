@@ -24,6 +24,12 @@ or `yarn`:
 yarn add locale-de-de
 ```
 
+Then import it as any other package:
+
+```js
+import locale from 'locale-de-de'
+```
+
 ## de-de locale
 Last updated 2012-7-5.
 
